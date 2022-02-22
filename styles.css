@@ -206,7 +206,7 @@ footer ul {
     padding: 1rem;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 700px) {
     article {
         display: grid;
         grid-template-columns: repeat(10, 1fr);
